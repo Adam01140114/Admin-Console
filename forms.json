@@ -1,0 +1,18 @@
+{
+  "forms": [
+    {
+      "id": "fee-waiver",
+      "name": "Fee Waiver Form",
+      "description": "Apply for a fee waiver for court filing fees",
+      "file": "Fee Waiver.html",
+      "icon": "💰"
+    },
+    {
+      "id": "small-claims",
+      "name": "Small Claims Form",
+      "description": "File a small claims case",
+      "file": "Small Claims.html",
+      "icon": "⚖️"
+    }
+  ]
+}
